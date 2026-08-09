@@ -1,6 +1,8 @@
-# I'm Sartaj
+# Hi, I'm Sartaj
 
-This part is WIP, check back tomorrow!
+Incoming Consultant at **McKinsey Digital** (Middle East), fresh off an MBA at INSEAD. Before that — 7 years turning data into decisions at BrowserStack, Airtel, and UnitedHealth Group, with a knack for shipping ML models that actually move revenue.
+ 
+Outside of work, I build. Mostly things I didn't need but couldn't stop myself from making.
 
 ---
 
