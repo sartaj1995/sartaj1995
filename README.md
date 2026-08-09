@@ -1,8 +1,12 @@
 # Hi, I'm Sartaj
 
-Incoming Consultant at **McKinsey Digital** (Middle East), fresh off an MBA at INSEAD. Before that — 7 years turning data into decisions at BrowserStack, Airtel, and UnitedHealth Group, with a knack for shipping ML models that actually move revenue.
+I turn messy problems into working systems — whether that's a business model, an ML pipeline, or a Sunday-afternoon side project.
  
-Outside of work, I build. Mostly things I didn't need but couldn't stop myself from making.
+**By day:** incoming Consultant at McKinsey Digital, fresh off my MBA at INSEAD. Before that, 7 years as a data leader — building the models and forecasts that pushed ARR and revenue for BrowserStack, Airtel, and UnitedHealth Group.
+ 
+**By night:** I vibe-code. I automate the boring stuff with AI agents, chase edges in the stock market with my own screener, and occasionally build a video game because why not.
+ 
+I don't ship polish for its own sake — I ship things that work, then make them look good.
 
 ---
 
