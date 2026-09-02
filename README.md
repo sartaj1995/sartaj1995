@@ -12,6 +12,9 @@ I don't ship polish for its own sake — I ship things that work, then make them
 
 [![sartajsinghdhatt.com](https://img.shields.io/badge/sartajsinghdhatt.com-4d4d4d?style=for-the-badge)](https://sartajsinghdhatt.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sartaj-singh-dhatt)
+
+<!--
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@sartajsinghdhatt.com)
+-->
 
 **👇 Check out my pinned repos below**
