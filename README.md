@@ -4,7 +4,7 @@ I turn messy problems into working systems — whether that's a business model, 
 
 **By day:** incoming Consultant at [McKinsey Digital](https://www.mckinsey.com/), fresh off my MBA at [INSEAD](https://www.insead.edu/). Before that, 7 years as a data leader — building the models and forecasts that pushed ARR and revenue for [BrowserStack](https://www.browserstack.com/), [Airtel](https://www.airtel.in/), and [UnitedHealth Group](https://www.unitedhealthgroup.com/).
 
-**By night:** I vibe-code whatever I wish existed. AI agents that automate the boring stuff, a [stock screener](https://stock-screener-ap7rq45vckscpsbpfuc86p.streamlit.app/) to chase edges in the market, an Arabic tutor to prep for the move to the Middle East, trackers for my workouts and health, and a Snake clone because why not.
+**By night:** I vibe-code whatever I wish existed. AI agents that automate the boring stuff, a [stock screener](https://stock-screener-ap7rq45vckscpsbpfuc86p.streamlit.app/) to chase edges in the market, an [Arabic tutor](https://arabic-tutor-ssd.vercel.app/) to prep for the move to the Middle East, trackers for my [workouts](https://workout-tracker-ssd.vercel.app/) and [health](https://health-tracker-ssd.vercel.app/), and a [Snake clone](https://sartaj1995.github.io/classic_snake__v2/) because why not.
 
 I don't ship polish for its own sake — I ship things that work, then make them look good.
 
