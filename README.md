@@ -20,6 +20,9 @@ I don't ship polish for its own sake — I ship things that work, then make them
 
 <!--
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@sartajsinghdhatt.com)
+
+
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sartaj1995)
 -->
 
 **👇 Check out my pinned repos below**
